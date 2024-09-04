@@ -1,0 +1,19 @@
+start develop azure ai studio and asure ai models
+https://www.youtube.com/watch?v=fQ9RFR1KTbY  
+
+starting azure openai up to latest
+https://www.youtube.com/watch?v=qj5TzcdHJxE&list=PLb9nVWmuEUuEJL56-DPucYtU0VDZhgt0f 
+
+fine tuning tutorial on phi3-mini
+https://techcommunity.microsoft.com/t5/educator-developer-blog/fine-tune-and-integrate-custom-phi-3-models-with-prompt-flow-in/ba-p/4191726#:~:text=Fine%2Dtune%20the%20Phi%2D3%20model,-Visit%20Azure%20ML&text=Select%20the%20Azure%20Macnine%20Learning,from%20the%20options%20that%20appear.
+
+as above from forum
+https://techcommunity.microsoft.com/t5/ai-machine-learning-blog/finetune-small-language-model-slm-phi-3-using-azure-machine/ba-p/4130399
+
+corsi e certificazioni
+https://www.punto-informatico.it/corsi-certificazione-gratuiti-microsoft-ai-azure-cloud/
+
+PAT per azure devops
+kdyia72ipflr4pkphyl33nldmvpp7jx2rq4qekbee7gv5owrydpq
+
+

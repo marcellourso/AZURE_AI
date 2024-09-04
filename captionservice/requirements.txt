@@ -1,0 +1,4 @@
+flask
+flask-cors
+azure-cognitiveservices-vision-computervision
+azure-core
